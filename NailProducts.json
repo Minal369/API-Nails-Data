@@ -2,7 +2,7 @@
   "allProduct": [
     {
       "id": 1,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer10CallMeHot2.jpg?v=1710480740",
       "img1": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/SUGAR-POP-Nail-Lacquer-10-Call-Me-Hot-2.jpg?v=1719841910",
       "img2": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/SUGAR-POP-Nail-Lacquer-10-Call-Me-Hot-3.jpg?v=1719841914",
@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer02BubblegumDreams2.jpg?v=1711527450",
       "img5": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer02BubblegumDreams2.jpg?v=1711527450",
       "img6": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer02BubblegumDreams1.jpg?v=1711527450",
@@ -58,7 +58,7 @@
     },
     {
       "id": 3,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer26PinkPerfection2.jpg?v=1710480802",
       "img9": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer26PinkPerfection2.jpg?v=1710480802",
       "img10": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer26PinkPerfection1.jpg?v=1710480802",
@@ -86,7 +86,7 @@
     },
     {
       "id": 4,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer09LilacRush2.jpg?v=1710480751",
       "img13": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer09LilacRush2.jpg?v=1710480751",
       "img14": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer09LilacRush1.jpg?v=1710480751",
@@ -114,7 +114,7 @@
     },
     {
       "id": 5,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard16.jpg?v=1682052813",
       "img17": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard16.jpg?v=1682052813",
       "img18": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_16shade.jpg?v=1682052813",
@@ -142,7 +142,7 @@
     },
     {
       "id": 6,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard30.jpg?v=1682052922",
       "img21": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard30.jpg?v=1682052922",
       "img22": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_30shade_a779d5cc-a9e3-431c-aa9c-2851c2b72bc0.jpg?v=1682052922",
@@ -170,7 +170,7 @@
     },
     {
       "id": 7,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer11ChocolateTreat2.jpg?v=1710480758",
       "img25": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer11ChocolateTreat2.jpg?v=1710480758",
       "img26": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer11ChocolateTreat1.jpg?v=1710480758",
@@ -198,7 +198,7 @@
     },
     {
       "id": 8,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard29.jpg?v=1682052916",
       "img29": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard29.jpg?v=1682052916",
       "img30": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_29shade_4de05c2e-da7c-4082-9702-6b8123aae33f.jpg?v=1682052916",
@@ -226,7 +226,7 @@
     },
     {
       "id": 9,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard1_7adb6a8b-23ca-4675-95e3-72d5b6d79dc9.jpg?v=1682050160",
       "img33": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard1.jpg?v=1682052572",
       "img34": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG-01shade.jpg?v=1682052572",
@@ -254,7 +254,7 @@
     },
     {
       "id": 10,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard1.jpg?v=1682052572",
       "img37": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard1.jpg?v=1682052572",
       "img38": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG-01shade.jpg?v=1682052572",
@@ -282,7 +282,7 @@
     },
     {
       "id": 11,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard19.jpg?v=1682052832",
       "img41": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_19shade.jpg?v=1682052832",
       "img42": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard19.jpg?v=1682052832",
@@ -310,7 +310,7 @@
     },
     {
       "id": 12,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer08SilkStocking2.jpg?v=1710480727",
       "img45": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer08SilkStocking3.jpg?v=1710480524",
       "img46": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer08SilkStocking2.jpg?v=1710480727",
@@ -338,7 +338,7 @@
     },
     {
       "id": 13,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer15BoldPlease2.jpg?v=1710480780",
       "img49": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer15BoldPlease3.jpg?v=1710480617",
       "img50": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer15BoldPlease2.jpg?v=1710480780",
@@ -366,7 +366,7 @@
     },
     {
       "id": 14,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer18RedRum2.jpg?v=1710480785",
       "img53": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer18RedRum2.jpg?v=1710480785",
       "img54": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer18RedRum1.jpg?v=1710480785",
@@ -394,7 +394,7 @@
     },
     {
       "id": 15,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer25RedClaret2.jpg?v=1710480798",
       "img57": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer25RedClaret2.jpg?v=1710480798",
       "img58": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer25RedClaret1.jpg?v=1710480798",
@@ -422,7 +422,7 @@
     },
     {
       "id": 16,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer13RedAlert2.jpg?v=1710480773",
       "img61": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer13RedAlert2.jpg?v=1710480773",
       "img62": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer13RedAlert1.jpg?v=1710480773",
@@ -450,7 +450,7 @@
     },
     {
       "id": 17,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard6.jpg?v=1682052622",
       "img65": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_06shade.jpg?v=1682052622",
       "img66": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/Artboard6_91275ad6-a0cb-4547-890f-85a8b03ae403.jpg?v=1682052622",
@@ -478,7 +478,7 @@
     },
     {
       "id": 18,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer03AquaBabe2.jpg?v=1710480721",
       "img69": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer03AquaBabe3.jpg?v=1710480512",
       "img70": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer03AquaBabe1.jpg?v=1710480721",
@@ -506,7 +506,7 @@
     },
     {
       "id": 19,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard23.jpg?v=1682052880",
       "img73": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_23shade.jpg?v=1682052880",
       "img74": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/Artboard6_51b2a5f8-bd3d-4a44-a626-322ac547f12a.jpg?v=1682052880",
@@ -534,7 +534,7 @@
     },
     {
       "id": 20,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard7.jpg?v=1682052629",
       "img77": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_07shade.jpg?v=1682052629",
       "img78": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/Artboard6_a3191f31-8a5e-4117-8652-699476b6eac7.jpg?v=1682052629",
@@ -562,7 +562,7 @@
     },
     {
       "id": 21,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard12.jpg?v=1682052658",
       "img81": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_12shade.jpg?v=1682052658",
       "img82": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/Artboard6_bd2eaef8-4e12-4b43-bfdd-d23b2d08b046.jpg?v=1682052658",
@@ -590,7 +590,7 @@
     },
     {
       "id": 22,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard5.jpg?v=1682052615",
       "img85": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_05shade.jpg?v=1682052615",
       "img86": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/Artboard6_a473aafa-2e6f-4614-8fe8-4fc20d6f3c3f.jpg?v=1682052615",
@@ -618,7 +618,7 @@
     },
     {
       "id": 23,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard4.jpg?v=1682052608",
       "img89": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard4.jpg?v=1682052608",
       "img90": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_04shade.jpg?v=1682052608",
@@ -646,7 +646,7 @@
     },
     {
       "id": 24,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard24.jpg?v=1682052886",
       "img93": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerArtboard24.jpg?v=1682052886",
       "img94": "https://cdn.shopify.com/s/files/1/0599/7894/0607/products/NailLacquerWBG_24shade.jpg?v=1682052886",
@@ -674,7 +674,7 @@
     },
     {
       "id": 25,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer31IvorySupreme2.jpg?v=1710481263",
       "img97": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer31IvorySupreme2.jpg?v=1710481263",
       "img98": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer31IvorySupreme1.jpg?v=1710481263",
@@ -702,7 +702,7 @@
     },
     {
       "id": 26,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer21BerryBlack2.jpg?v=1710480788",
       "img101": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer21BerryBlack2.jpg?v=1710480788",
       "img102": "https://cdn.shopify.com/s/files/1/0599/7894/0607/files/NewInfographicsGlossyNailLacquer21BerryBlack1.jpg?v=1710480788",
@@ -731,7 +731,7 @@
 
     {
       "id": 27,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/9/d94f4ac8904245713775_1.jpg",
       "img105": "https://images-static.nykaa.com/media/catalog/product/d/9/d94f4ac8904245713775_1.jpg",
       "img106": "https://images-static.nykaa.com/media/catalog/product/d/9/d94f4ac8904245713775_11.jpg",
@@ -761,7 +761,7 @@
     },
     {
       "id": 28,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/4/f4574ac8904245713737_1.jpg",
       "img109": "https://images-static.nykaa.com/media/catalog/product/f/4/f4574ac8904245713737_1.jpg",
       "img110": "https://images-static.nykaa.com/media/catalog/product/f/4/f4574ac8904245713737_11.jpg",
@@ -790,7 +790,7 @@
     },
     {
       "id": 29,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c4c5b8NYKAC00001244_1a.jpg",
       "img113": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001244_1a.jpg",
       "img114": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001244_3a.jpg",
@@ -819,7 +819,7 @@
     },
     {
       "id": 30,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/9/69b07ab8904245700096_1.jpg",
       "img117": "https://images-static.nykaa.com/media/catalog/product/6/9/69b07ab8904245700096_1.jpg",
       "img118": "https://images-static.nykaa.com/media/catalog/product/6/9/69b07ab8904245700096_3.jpg",
@@ -848,7 +848,7 @@
     },
     {
       "id": 31,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/2/72a60c58904245701338_0.jpg",
       "img121": "https://images-static.nykaa.com/media/catalog/product/7/2/72a60c58904245701338_0.jpg",
       "img122": "https://images-static.nykaa.com/media/catalog/product/7/2/72a60c58904245701338_1.jpg",
@@ -877,7 +877,7 @@
     },
     {
       "id": 32,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/b/0b697f88904245701314_1.jpg",
       "img125": "https://images-static.nykaa.com/media/catalog/product/0/b/0b697f88904245701314_3.jpg",
       "img126": "https://images-static.nykaa.com/media/catalog/product/0/b/0b697f88904245701314_7.jpg",
@@ -906,7 +906,7 @@
     },
     {
       "id": 33,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c4c5b8NYKAC00001253_1a.jpg",
       "img129": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001253_9a.jpg",
       "img130": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001253_1a.jpg",
@@ -935,7 +935,7 @@
     },
     {
       "id": 34,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/d/7d2f7f88904245702328_1.jpg",
       "img133": "https://images-static.nykaa.com/media/catalog/product/7/d/7d2f7f88904245702328_1.jpg",
       "img134": "https://images-static.nykaa.com/media/catalog/product/7/d/7d2f7f88904245702328_7.jpg",
@@ -964,7 +964,7 @@
     },
     {
       "id": 35,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/2/e2f17f88904245702335_1.jpg",
       "img137": "https://images-static.nykaa.com/media/catalog/product/e/2/e2f17f88904245702335_1.jpg",
       "img138": "https://images-static.nykaa.com/media/catalog/product/e/2/e2f17f88904245702335_7.jpg",
@@ -993,7 +993,7 @@
     },
     {
       "id": 36,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c4c5b8NYKAC00001234_1a.jpg",
       "img141": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001234_3a.jpg",
       "img142": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001234_4a.jpg",
@@ -1022,7 +1022,7 @@
     },
     {
       "id": 37,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/f/af467f88904245702342_1.jpg",
       "img145": "https://images-static.nykaa.com/media/catalog/product/a/f/af467f88904245702342_1.jpg",
       "img146": "https://images-static.nykaa.com/media/catalog/product/a/f/af467f88904245702342_7.jpg",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": 38,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/4/d4db4ac8904245713591_1.jpg",
       "img149": "https://images-static.nykaa.com/media/catalog/product/d/4/d4db4ac8904245713591_1.jpg",
       "img150": "https://images-static.nykaa.com/media/catalog/product/d/4/d4db4ac8904245713591_11.jpg",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": 39,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/7/47d27ab8904245700010_1.jpg",
       "img153": "https://images-static.nykaa.com/media/catalog/product/4/7/47d27ab8904245700010_1.jpg",
       "img154": "https://images-static.nykaa.com/media/catalog/product/4/7/47d27ab8904245700010_3.jpg",
@@ -1109,7 +1109,7 @@
     },
     {
       "id": 40,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/f/7fa27ab8904245700027_1.jpg",
       "img157": "https://images-static.nykaa.com/media/catalog/product/7/f/7fa27ab8904245700027_1.jpg",
       "img158": "https://images-static.nykaa.com/media/catalog/product/7/f/7fa27ab8904245700027_3.jpg",
@@ -1138,7 +1138,7 @@
     },
     {
       "id": 41,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/b/ab717ab8904245701260_1.jpg",
       "img161": "https://images-static.nykaa.com/media/catalog/product/a/b/ab717ab8904245701260_1.jpg",
       "img162": "https://images-static.nykaa.com/media/catalog/product/a/b/ab717ab8904245701260_3.jpg",
@@ -1167,7 +1167,7 @@
     },
     {
       "id": 42,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/9/39074ac8904245713690_1.jpg",
       "img165": "https://images-static.nykaa.com/media/catalog/product/3/9/39074ac8904245713690_1.jpg",
       "img166": "https://images-static.nykaa.com/media/catalog/product/3/9/39074ac8904245713690_11.jpg",
@@ -1196,7 +1196,7 @@
     },
     {
       "id": 43,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c4c5b8NYKAC00001242_1a.jpg",
       "img169": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001242_1a.jpg",
       "img170": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001242_3a.jpg",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 44,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/e/ee457f88904245702472_1.jpg",
       "img173": "https://images-static.nykaa.com/media/catalog/product/e/e/ee457f88904245702472_1.jpg",
       "img174": "https://images-static.nykaa.com/media/catalog/product/e/e/ee457f88904245702472_3.jpg",
@@ -1254,7 +1254,7 @@
     },
     {
       "id": 45,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/9/f9537f88904245701345_1.jpg",
       "img177": "https://images-static.nykaa.com/media/catalog/product/f/9/f9537f88904245701345_1.jpg",
       "img178": "https://images-static.nykaa.com/media/catalog/product/f/9/f9537f88904245701345_2.jpg",
@@ -1283,7 +1283,7 @@
     },
     {
       "id": 46,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/3/93917f88904245701376_1.jpg",
       "img181": "https://images-static.nykaa.com/media/catalog/product/9/3/93917f88904245701376_1.jpg",
       "img182": "https://images-static.nykaa.com/media/catalog/product/9/3/93917f88904245701376_3.jpg",
@@ -1312,7 +1312,7 @@
     },
     {
       "id": 47,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c4c5b8NYKAC00001251_1a.jpg",
       "img185": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001251_1a.jpg",
       "img186": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001251_2a.jpg",
@@ -1341,7 +1341,7 @@
     },
     {
       "id": 48,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/f/9f594ac8904245713713_11.jpg",
       "img189": "https://images-static.nykaa.com/media/catalog/product/9/f/9f594ac8904245713713_11.jpg",
       "img190": "https://images-static.nykaa.com/media/catalog/product/9/f/9f594ac8904245713713_2.jpg",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": 49,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/c/1c172108904245700492_1.jpg",
       "img193": "https://images-static.nykaa.com/media/catalog/product/1/c/1c172108904245700492_1.jpg",
       "img194": "https://images-static.nykaa.com/media/catalog/product/1/c/1c172108904245700492_2.jpg",
@@ -1399,7 +1399,7 @@
     },
     {
       "id": 50,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/7/97782108904245700195_1.jpg",
       "img197": "https://images-static.nykaa.com/media/catalog/product/9/7/97782108904245700195_1.jpg",
       "img198": "https://images-static.nykaa.com/media/catalog/product/9/7/97782108904245700195_2.jpg",
@@ -1428,7 +1428,7 @@
     },
     {
       "id": 51,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/f/efd94ac8904245713812_1.jpg",
       "img201": "https://images-static.nykaa.com/media/catalog/product/e/f/efd94ac8904245713812_11.jpg",
       "img202": "https://images-static.nykaa.com/media/catalog/product/e/f/efd94ac8904245713812_1.jpg",
@@ -1457,7 +1457,7 @@
     },
     {
       "id": 52,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c4c5b8NYKAC00001254_1a.jpg",
       "img205": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001254_1a.jpg",
       "img206": "https://images-static.nykaa.com/media/catalog/product/0/c/0c4c5b8NYKAC00001254_2a.jpg",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": 53,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000840_f.jpg",
       "img209": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000840_f.jpg",
       "img210": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000840_1.jpg",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 54,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000847_f.jpg",
       "img213": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000847_f.jpg",
       "img214": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000847_1.jpg",
@@ -1544,7 +1544,7 @@
     },
     {
       "id": 55,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000859_f.jpg",
       "img217": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000859_f.jpg",
       "img218": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000859_1.jpg",
@@ -1573,7 +1573,7 @@
     },
     {
       "id": 56,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000851_f.jpg",
       "img221": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000851_f.jpg",
       "img222": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000851_1.jpg",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": 57,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000846_f.jpg",
       "img225": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000846_f.jpg",
       "img226": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000846_1.jpg",
@@ -1631,7 +1631,7 @@
     },
     {
       "id": 58,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000860_f.jpg",
       "img229": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000860_f.jpg",
       "img230": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000860_1.jpg",
@@ -1660,7 +1660,7 @@
     },
     {
       "id": 59,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/4/24483_h-8901030749032.jpg",
       "img233": "https://images-static.nykaa.com/media/catalog/product/2/4/24483_h-8901030749032.jpg",
       "img234": "https://images-static.nykaa.com/media/catalog/product/2/4/24483_s1-8901030749032a.jpg",
@@ -1689,7 +1689,7 @@
     },
     {
       "id": 60,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000854_f.jpg",
       "img237": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000854_f.jpg",
       "img238": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000854_1.jpg",
@@ -1718,7 +1718,7 @@
     },
     {
       "id": 61,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000853_f.jpg",
       "img241": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000856_f.jpg",
       "img242": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000856_1.jpg",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 62,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000838_f.jpg",
       "img245": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000838_f.jpg",
       "img246": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000838_1.jpg",
@@ -1776,7 +1776,7 @@
     },
     {
       "id": 63,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bfdfe6cLAKME00000827_f.jpg",
       "img249": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000827_f.jpg",
       "img250": "https://images-static.nykaa.com/media/catalog/product/b/f/bfdfe6cLAKME00000827_1.jpg",
@@ -1805,7 +1805,7 @@
     },
     {
       "id": 64,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/TulipSheen_600x.png?v=1717661719",
       "img253": "https://www.debellecosmetix.com/cdn/shop/files/TulipSheen_1000x.png?v=1717661719",
       "img254": "https://www.debellecosmetix.com/cdn/shop/files/TulipSheen_5_400x.jpg?v=1717661719",
@@ -1834,7 +1834,7 @@
     },
     {
       "id": 65,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/products/debelle-gel-nail-lacquer-miss-bliss-pink-shimmer-nail-polish-nail-polish-5020747432002_600x.jpg?v=1715400757",
       "img257": "https://www.debellecosmetix.com/cdn/shop/files/BlissfulElizabeth_6_1000x.jpg?v=1715668777",
       "img258": "https://www.debellecosmetix.com/cdn/shop/files/BlissfulElizabeth_1000x.jpg?v=1718435469",
@@ -1863,7 +1863,7 @@
     },
     {
       "id": 66,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/bebekiss_a62304d5-c483-406a-a58e-ee0820600457_600x.jpg?v=1715343663",
       "img261": "https://www.debellecosmetix.com/cdn/shop/files/bebekiss_a62304d5-c483-406a-a58e-ee0820600457_600x.jpg?v=1715343663",
       "img262": "https://www.debellecosmetix.com/cdn/shop/files/20230324023303_IMG_8345_600x.jpg?v=1718859694",
@@ -1892,7 +1892,7 @@
     },
     {
       "id": 67,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/BlueberryCrepe_600x.png?v=1715258161",
       "img265": "https://www.debellecosmetix.com/cdn/shop/files/BlueberryCrepe_600x.png?v=1715258161",
       "img266": "https://www.debellecosmetix.com/cdn/shop/files/1_4d326d9b-5607-4660-96af-5279ab8ad140_600x.jpg?v=1718962752",
@@ -1921,7 +1921,7 @@
     },
     {
       "id": 68,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/ViolaDew_5_c68c84b4-6b17-4b1f-aefd-faf181f9a722_600x.jpg?v=1717588589",
       "img269": "https://www.debellecosmetix.com/cdn/shop/files/ViolaDew_5_c68c84b4-6b17-4b1f-aefd-faf181f9a722_600x.jpg?v=1717588589",
       "img270": "https://www.debellecosmetix.com/cdn/shop/files/ViolaDew_5_c83dd6d9-fdfc-4164-b387-4f9df96ed1eb_400x.jpg?v=1718696597",
@@ -1950,7 +1950,7 @@
     },
     {
       "id": 69,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/products/20230406024534_IMG_9340_600x.jpg?v=1715258117",
       "img273": "https://www.debellecosmetix.com/cdn/shop/products/20230406024534_IMG_9340_600x.jpg?v=1715258117",
       "img274": "https://www.debellecosmetix.com/cdn/shop/files/blueberrybliss_2_54883cb3-bef9-4d72-afdd-d7f81cee08b2_600x.jpg?v=1718800069",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": 70,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/cocoaharvest_600x.jpg?v=1715313782",
       "img277": "https://www.debellecosmetix.com/cdn/shop/files/cocoaharvest_600x.jpg?v=1715313782",
       "img278": "https://www.debellecosmetix.com/cdn/shop/products/cocoa_harvest_600x.jpg?v=1717909482",
@@ -2008,7 +2008,7 @@
     },
     {
       "id": 71,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/CocoBean_600x.jpg?v=1716129244",
       "img281": "https://www.debellecosmetix.com/cdn/shop/files/CocoBean_4_7f82759a-e726-44f5-b096-ed1ad7fd5900_800x.jpg?v=1718855213",
       "img282": "https://www.debellecosmetix.com/cdn/shop/files/CocoBean_600x.jpg?v=1718964721",
@@ -2037,7 +2037,7 @@
     },
     {
       "id": 72,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/products/toffee_rose_600x.jpg?v=1717588546",
       "img285": "https://www.debellecosmetix.com/cdn/shop/products/Toffee_rose_swatch_600x.jpg?v=1718435481",
       "img286": "https://www.debellecosmetix.com/cdn/shop/products/Toffee_rose_nail_art_600x.jpg?v=1718435481",
@@ -2066,7 +2066,7 @@
     },
     {
       "id": 73,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/products/best_red_nail_polish_for_women_india_a2de48ea-fc8f-4707-bfb2-e06704109a37_600x.jpg?v=1715343679",
       "img289": "https://www.debellecosmetix.com/cdn/shop/products/best_red_nail_polish_for_women_india_a2de48ea-fc8f-4707-bfb2-e06704109a37_600x.jpg?v=1715343679",
       "img290": "https://www.debellecosmetix.com/cdn/shop/files/FrenchAffair_6484e22c-72cb-48cf-890c-4841364cdd69_600x.jpg?v=1717647676",
@@ -2095,7 +2095,7 @@
     },
     {
       "id": 74,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/Merlotrose_600x.png?v=1713778636",
       "img293": "https://www.debellecosmetix.com/cdn/shop/files/Merlotrose_600x.png?v=1713778636",
       "img294": "https://www.debellecosmetix.com/cdn/shop/files/20240228231807_IMG_4858_600x.jpg?v=1716982026",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": 75,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://www.debellecosmetix.com/cdn/shop/products/debelle_gel_nail_lacquer_princess_belle_600x.jpg?v=1717647666",
       "img297": "https://www.debellecosmetix.com/cdn/shop/files/rn-image_picker_lib_temp_ada8b2ed-5cbb-4a47-a979-36720244ab48_600x.jpg?v=1715616428",
       "img298": "https://www.debellecosmetix.com/cdn/shop/products/179642355_218765809616457_8430481357863825021_n_600x.jpg?v=1717647666",
@@ -2153,7 +2153,7 @@
     },
     {
       "id": 76,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/PersianBleu_600x.jpg?v=1713598726",
       "img301": "https://www.debellecosmetix.com/cdn/shop/files/PersianBleu_600x.jpg?v=1713598726",
       "img302": "https://www.debellecosmetix.com/cdn/shop/products/persian_blue_600x.jpg?v=1715170298",
@@ -2182,7 +2182,7 @@
     },
     {
       "id": 78,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/SnowBleu_23_400x.jpg?v=1715067287",
       "img305": "https://www.debellecosmetix.com/cdn/shop/files/SnowBleu_23_400x.jpg?v=1715067287",
       "img306": "https://www.debellecosmetix.com/cdn/shop/files/SnowBleu_600x.png?v=1715067287",
@@ -2211,7 +2211,7 @@
     },
     {
       "id": 79,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/products/bottle_green_nail_polish_shade_India_600x.jpg?v=1704958225",
       "img309": "https://www.debellecosmetix.com/cdn/shop/products/bottle_green_nail_polish_shade_India_600x.jpg?v=1704958225",
       "img310": "https://www.debellecosmetix.com/cdn/shop/products/Hyacinth_folio_swatch_600x.jpg?v=1716982038",
@@ -2240,7 +2240,7 @@
     },
     {
       "id": 80,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/products/311441425_5502199429833552_7999493020495596917_n_600x.jpg?v=1713717612",
       "img313": "https://www.debellecosmetix.com/cdn/shop/products/311441425_5502199429833552_7999493020495596917_n_600x.jpg?v=1713717612",
       "img314": "https://www.debellecosmetix.com/cdn/shop/files/Machacookie_17_400x.jpg?v=1718962994",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 81,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/MystiqueGreen_9_400x.jpg?v=1717661815",
       "img317": "https://www.debellecosmetix.com/cdn/shop/files/MystiqueGreen_9_400x.jpg?v=1717661815",
       "img318": "https://www.debellecosmetix.com/cdn/shop/products/mg2_600x.jpg?v=1718076160",
@@ -2298,7 +2298,7 @@
     },
     {
       "id": 82,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/1812/2259/files/rn-image_picker_lib_temp_37dc1f34-764d-4dad-892d-ff6b006a71ae_600x.jpg?v=1717647537",
       "img321": "https://www.debellecosmetix.com/cdn/shop/files/rn-image_picker_lib_temp_37dc1f34-764d-4dad-892d-ff6b006a71ae_600x.jpg?v=1717647537",
       "img322": "https://www.debellecosmetix.com/cdn/shop/files/rn-image_picker_lib_temp_04624752-c681-4333-97e0-ff275a9f8016_600x.jpg?v=1717647537",
@@ -2327,7 +2327,7 @@
     },
     {
       "id": 83,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://juicecosmetics.in/cdn/shop/products/40_725307ec-5056-49ad-ae12-95db78637563_800x.png?v=1689754935",
       "title": "JucieGloss",
       "titles": "NAIL PAINT JJ-11 | GLOSS",
@@ -2349,7 +2349,7 @@
     },
     {
       "id": 84,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://cdn.shopify.com/s/files/1/0568/8433/0684/products/C02_800x.png?v=1690453613",
       "title": "JucieGloss",
       "titles": "NAIL PAINT JJ-11 | CHROME",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": 85,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030663888_1.jpg",
       "img325": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663888_2.jpg",
       "img326": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663888_3.jpg",
@@ -2400,7 +2400,7 @@
     },
     {
       "id": 86,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000058_1.jpg",
       "img329": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000058_1.jpg",
       "img330": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000058_2.jpg",
@@ -2429,7 +2429,7 @@
     },
     {
       "id": 87,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030665905_1.jpg",
       "img333": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030665905_1.jpg",
       "img334": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030665905_2.jpg",
@@ -2458,7 +2458,7 @@
     },
     {
       "id": 88,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000055_1.jpg",
       "img337": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000055_1.jpg",
       "img338": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000055_2.jpg",
@@ -2487,7 +2487,7 @@
     },
     {
       "id": 89,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030663949_1.jpg",
       "img341": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663949_1.jpg",
       "img342": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663949_2.jpg",
@@ -2516,7 +2516,7 @@
     },
     {
       "id": 90,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030663956_1.jpg",
       "img345": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663956_1.jpg",
       "img346": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663956_2.jpg",
@@ -2545,7 +2545,7 @@
     },
     {
       "id": 91,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000114_1.jpg",
       "img349": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000114_1.jpg",
       "img350": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000114_2.jpg",
@@ -2574,7 +2574,7 @@
     },
     {
       "id": 92,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000013_1.jpg",
       "img353": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000013_1.jpg",
       "img354": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000013_2.jpg",
@@ -2603,7 +2603,7 @@
     },
     {
       "id": 93,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000014_1.jpg",
       "img357": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000014_1.jpg",
       "img358": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000014_2.jpg",
@@ -2632,7 +2632,7 @@
     },
     {
       "id": 94,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030663932_1.jpg",
       "img361": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663932_1.jpg",
       "img362": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030663932_10.jpg",
@@ -2661,7 +2661,7 @@
     },
     {
       "id": 95,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/0/d053017ELLE100000003_1.jpg",
       "img365": "https://images-static.nykaa.com/media/catalog/product/d/0/d053017ELLE100000003_2.jpg",
       "img366": "https://images-static.nykaa.com/media/catalog/product/d/0/d053017ELLE100000003_4.jpg",
@@ -2687,7 +2687,7 @@
     },
     {
       "id": 96,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030664731_1.jpg",
       "img369": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030664731_1.jpg",
       "img370": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030664731_2.jpg",
@@ -2716,7 +2716,7 @@
     },
     {
       "id": 97,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030664731_1.jpg",
       "img373": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030664731_1.jpg",
       "img374": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030664731_2.jpg",
@@ -2745,7 +2745,7 @@
     },
     {
       "id": 98,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000054_1.jpg",
       "img377": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000054_1.jpg",
       "img378": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000054_2.jpg",
@@ -2774,7 +2774,7 @@
     },
     {
       "id": 99,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/4/24072_h-8901030663871_1.jpg",
       "img381": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adN_8901030307683_1.jpg",
       "img382": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adN_8901030307683_2.jpg",
@@ -2803,7 +2803,7 @@
     },
     {
       "id": 100,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030664342_1.jpg",
       "img385": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030664342_1.jpg",
       "img386": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030664342_2.jpg",
@@ -2832,7 +2832,7 @@
     },
     {
       "id": 101,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adN_8901030307683_1.jpg",
       "img389": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adN_8901030307683_1.jpg",
       "img390": "https://images-static.nykaa.com/media/catalog/product/2/4/24072_s1-8901030663871_1.jpg",
@@ -2861,7 +2861,7 @@
     },
     {
       "id": 102,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030665516_1.jpg",
       "img393": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030665516_1.jpg",
       "img394": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030665516_2.jpg",
@@ -2890,7 +2890,7 @@
     },
     {
       "id": 103,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000062_1.jpg",
       "img397": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000062_1.jpg",
       "img398": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000062_2.jpg",
@@ -2919,7 +2919,7 @@
     },
     {
       "id": 104,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000053_1.jpg",
       "img401": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000053_1.jpg",
       "img402": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000053_2.jpg",
@@ -2948,7 +2948,7 @@
     },
     {
       "id": 105,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000008_1.jpg",
       "img405": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000008_1.jpg",
       "img406": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000008_2.jpg",
@@ -2977,7 +2977,7 @@
     },
     {
       "id": 106,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041adELLE100000113_1.jpg",
       "img409": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000113_1.jpg",
       "img410": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041adELLE100000113_2.jpg",
@@ -3006,7 +3006,7 @@
     },
     {
       "id": 107,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3041ad8901030665509_1.jpg",
       "img413": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030665509_1.jpg",
       "img414": "https://images-static.nykaa.com/media/catalog/product/b/3/b3041ad8901030665509_2.jpg",
@@ -3035,7 +3035,7 @@
     },
     {
       "id": 108,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/1/9130c788904330901247_1.jpg",
       "img417": "https://images-static.nykaa.com/media/catalog/product/9/1/9130c788904330901247_1.jpg",
       "img418": "https://images-static.nykaa.com/media/catalog/product/9/1/9130c788904330901247_2.jpg",
@@ -3064,7 +3064,7 @@
     },
     {
       "id": 109,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/5/e5b4c788904330901254_1.jpg",
       "img421": "https://images-static.nykaa.com/media/catalog/product/e/5/e5b4c788904330901254_1.jpg",
       "img422": "https://images-static.nykaa.com/media/catalog/product/e/5/e5b4c788904330901254_2.jpg",
@@ -3093,7 +3093,7 @@
     },
     {
       "id": 110,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/4/841fc788904330901285_1.jpg",
       "img425": "https://images-static.nykaa.com/media/catalog/product/8/4/841fc788904330901285_1.jpg",
       "img426": "https://images-static.nykaa.com/media/catalog/product/8/4/841fc788904330901285_2.jpg",
@@ -3122,7 +3122,7 @@
     },
     {
       "id": 111,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/6/468ac788904330901261_1.jpg",
       "img429": "https://images-static.nykaa.com/media/catalog/product/4/6/468ac788904330901261_1.jpg",
       "img430": "https://images-static.nykaa.com/media/catalog/product/4/6/468ac788904330901261_2.jpg",
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 112,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/a/dad5c788904330901278_1.jpg",
       "img433": "https://images-static.nykaa.com/media/catalog/product/d/a/dad5c788904330901278_1.jpg",
       "img434": "https://images-static.nykaa.com/media/catalog/product/d/a/dad5c788904330901278_2.jpg",
@@ -3180,7 +3180,7 @@
     },
     {
       "id": 113,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/e/dedc56c8904330901070_1.jpg",
       "img437": "https://images-static.nykaa.com/media/catalog/product/d/e/dedc56c8904330901070_1.jpg",
       "img438": "https://images-static.nykaa.com/media/catalog/product/d/e/dedc56c8904330901070_2.jpg",
@@ -3209,7 +3209,7 @@
     },
     {
       "id": 114,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/a/aaa2c788904330901346_1.jpg",
       "img441": "https://images-static.nykaa.com/media/catalog/product/a/a/aaa2c788904330901346_1.jpg",
       "img442": "https://images-static.nykaa.com/media/catalog/product/a/a/aaa2c788904330901346_2.jpg",
@@ -3238,7 +3238,7 @@
     },
     {
       "id": 115,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/2/d20d56c8904330901339_1.jpg",
       "img445": "https://images-static.nykaa.com/media/catalog/product/d/2/d20d56c8904330901339_1.jpg",
       "img446": "https://images-static.nykaa.com/media/catalog/product/d/2/d20d56c8904330901339_3.jpg",
@@ -3267,7 +3267,7 @@
     },
     {
       "id": 116,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f2cb4e88904330901353_1.jpg",
       "img449": "https://images-static.nykaa.com/media/catalog/product/f/2/f2cb4e88904330901353_1.jpg",
       "img450": "https://images-static.nykaa.com/media/catalog/product/f/2/f2cb4e88904330901353_2.jpg",
@@ -3296,7 +3296,7 @@
     },
     {
       "id": 117,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/1/d18e56c8904330901063_1.jpg",
       "img453": "https://images-static.nykaa.com/media/catalog/product/d/1/d18e56c8904330901063_1.jpg",
       "img454": "https://images-static.nykaa.com/media/catalog/product/d/1/d18e56c8904330901063_2.jpg",
@@ -3325,7 +3325,7 @@
     },
     {
       "id": 118,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/a/7a31c788904330901056_1.jpg",
       "img457": "https://images-static.nykaa.com/media/catalog/product/7/a/7a31c788904330901056_1.jpg",
       "img458": "https://images-static.nykaa.com/media/catalog/product/7/a/7a31c788904330901056_2.jpg",
@@ -3354,7 +3354,7 @@
     },
     {
       "id": 119,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/7/37d93298903380021097_1.jpg",
       "img461": "https://images-static.nykaa.com/media/catalog/product/3/7/37d93298903380021097_1.jpg",
       "img462": "https://images-static.nykaa.com/media/catalog/product/3/7/37d93298903380021097_2.jpg",
@@ -3383,7 +3383,7 @@
     },
     {
       "id": 120,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/9/79f43298903380021127_1.jpg",
       "img465": "https://images-static.nykaa.com/media/catalog/product/7/9/79f43298903380021127_1.jpg",
       "img466": "https://images-static.nykaa.com/media/catalog/product/7/9/79f43298903380021127_2.jpg",
@@ -3412,7 +3412,7 @@
     },
     {
       "id": 121,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/1/11473298903380021400_1.jpg",
       "img469": "https://images-static.nykaa.com/media/catalog/product/1/1/11473298903380021400_1.jpg",
       "img470": "https://images-static.nykaa.com/media/catalog/product/1/1/11473298903380021400.jpg",
@@ -3441,7 +3441,7 @@
     },
     {
       "id": 122,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/4/948a3298903380021035_1.jpg",
       "img473": "https://images-static.nykaa.com/media/catalog/product/9/4/948a3298903380021035_1.jpg",
       "img474": "https://images-static.nykaa.com/media/catalog/product/9/4/948a3298903380021035.jpg",
@@ -3470,7 +3470,7 @@
     },
     {
       "id": 123,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/d/cd063298903380021042_1.jpg",
       "img477": "https://images-static.nykaa.com/media/catalog/product/c/d/cd063298903380021042_1.jpg",
       "img478": "https://images-static.nykaa.com/media/catalog/product/c/d/cd063298903380021042_2.jpg",
@@ -3499,7 +3499,7 @@
     },
     {
       "id": 124,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/d/ad083298903380021066_1.jpg",
       "img481": "https://images-static.nykaa.com/media/catalog/product/a/d/ad083298903380021066_1.jpg",
       "img482": "https://images-static.nykaa.com/media/catalog/product/a/d/ad083298903380021066_2.jpg",
@@ -3528,7 +3528,7 @@
     },
     {
       "id": 125,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/9/99573298903380020823_1.jpg",
       "img485": "https://images-static.nykaa.com/media/catalog/product/9/9/99573298903380020823_1.jpg",
       "img486": "https://images-static.nykaa.com/media/catalog/product/9/9/99573298903380020823.jpg",
@@ -3557,7 +3557,7 @@
     },
     {
       "id": 126,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/9/492c3298903380021547_1.jpg",
       "img489": "https://images-static.nykaa.com/media/catalog/product/4/9/492c3298903380021547_1.jpg",
       "img490": "https://images-static.nykaa.com/media/catalog/product/4/9/492c3298903380021547_2.jpg",
@@ -3586,7 +3586,7 @@
     },
     {
       "id": 127,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/f/ff253298903380020915_1.jpg",
       "img493": "https://images-static.nykaa.com/media/catalog/product/f/f/ff253298903380020915_1.jpg",
       "img494": "https://images-static.nykaa.com/media/catalog/product/f/f/ff253298903380020915_2.jpg",
@@ -3615,7 +3615,7 @@
     },
     {
       "id": 128,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/a/3a6f3298903380021479_1.jpg",
       "img497": "https://images-static.nykaa.com/media/catalog/product/3/a/3a6f3298903380021479_1.jpg",
       "img498": "https://images-static.nykaa.com/media/catalog/product/3/a/3a6f3298903380021479_2.jpg",
@@ -3644,7 +3644,7 @@
     },
     {
       "id": 129,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/6/262e3298903380020854_1.jpg",
       "img501": "https://images-static.nykaa.com/media/catalog/product/2/6/262e3298903380020854_1.jpg",
       "img502": "https://images-static.nykaa.com/media/catalog/product/2/6/262e3298903380020854_2.jpg",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": 130,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/9/d9487c48904052449072(1).png",
       "img505": "https://images-static.nykaa.com/media/catalog/product/d/9/d9487c48904052449072(2).png",
       "img506": "https://images-static.nykaa.com/media/catalog/product/d/9/d9487c48904052449072(1).png",
@@ -3702,7 +3702,7 @@
     },
     {
       "id": 131,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/e/eed816cCOLOR00000651.jpg",
       "img509": "https://images-static.nykaa.com/media/catalog/product/e/e/eed816cCOLOR00000651_2.jpg",
       "img510": "https://images-static.nykaa.com/media/catalog/product/e/e/eed816cCOLOR00000651_1.jpg",
@@ -3731,7 +3731,7 @@
     },
     {
       "id": 132,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/2/729616cCOLOR00000665.jpg",
       "img513": "https://images-static.nykaa.com/media/catalog/product/7/2/729616cCOLOR00000665_2.jpg",
       "img514": "https://images-static.nykaa.com/media/catalog/product/7/2/729616cCOLOR00000665_1.jpg",
@@ -3760,7 +3760,7 @@
     },
     {
       "id": 133,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/3/f3eb16cCOLOR00000653.jpg",
       "img517": "https://images-static.nykaa.com/media/catalog/product/f/3/f3eb16cCOLOR00000653_2.jpg",
       "img518": "https://images-static.nykaa.com/media/catalog/product/f/3/f3eb16cCOLOR00000653_1.jpg",
@@ -3790,7 +3790,7 @@
     },
     {
       "id": 134,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/8/c8027c48904052448792(1).png",
       "img521": "https://images-static.nykaa.com/media/catalog/product/c/8/c8027c48904052448792(2).png",
       "img522": "https://images-static.nykaa.com/media/catalog/product/c/8/c8027c48904052448792(1).png",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 135,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/4/54ca16cCOLOR00000661.jpg",
       "img525": "https://images-static.nykaa.com/media/catalog/product/5/4/54ca16cCOLOR00000661_2.jpg",
       "img526": "https://images-static.nykaa.com/media/catalog/product/5/4/54ca16cCOLOR00000661_1.jpg",
@@ -3848,7 +3848,7 @@
     },
     {
       "id": 136,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/80757c48904052448853_1.png",
       "img529": "https://images-static.nykaa.com/media/catalog/product/8/0/80757c48904052448853_2.png",
       "img530": "https://images-static.nykaa.com/media/catalog/product/8/0/80757c48904052448853_1.png",
@@ -3877,7 +3877,7 @@
     },
     {
       "id": 137,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/428316cCOLOR00000662.jpg",
       "img533": "https://images-static.nykaa.com/media/catalog/product/4/2/428316cCOLOR00000662_2.jpg",
       "img534": "https://images-static.nykaa.com/media/catalog/product/4/2/428316cCOLOR00000662_1.jpg",
@@ -3906,7 +3906,7 @@
     },
     {
       "id": 138,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/3/c3d516cCOLOR00000655.jpg",
       "img537": "https://images-static.nykaa.com/media/catalog/product/c/3/c3d516cCOLOR00000655_2.jpg",
       "img538": "https://images-static.nykaa.com/media/catalog/product/c/3/c3d516cCOLOR00000655_1.jpg",
@@ -3935,7 +3935,7 @@
     },
     {
       "id": 139,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/e/eed816cCOLOR00000651.jpg",
       "img541": "https://images-static.nykaa.com/media/catalog/product/e/e/eed816cCOLOR00000651_2.jpg",
       "img542": "https://images-static.nykaa.com/media/catalog/product/e/e/eed816cCOLOR00000651_1.jpg",
@@ -3964,7 +3964,7 @@
     },
     {
       "id": 140,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/2/327b7c48904052448815_1.png",
       "img545": "https://images-static.nykaa.com/media/catalog/product/3/2/327b7c48904052448815_2.png",
       "img546": "https://images-static.nykaa.com/media/catalog/product/3/2/327b7c48904052448815_1.png",
@@ -3993,7 +3993,7 @@
     },
     {
       "id": 141,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/e/ce0f7c48904052449201(1).png",
       "img549": "https://images-static.nykaa.com/media/catalog/product/c/e/ce0f7c48904052449201(2).png",
       "img550": "https://images-static.nykaa.com/media/catalog/product/c/e/ce0f7c48904052449201(1).png",
@@ -4022,7 +4022,7 @@
     },
     {
       "id": 142,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/d/1d937c48904052449157(1).png",
       "img553": "https://images-static.nykaa.com/media/catalog/product/1/d/1d937c48904052449157(2).png",
       "img554": "https://images-static.nykaa.com/media/catalog/product/1/d/1d937c48904052449157(1).png",
@@ -4051,7 +4051,7 @@
     },
     {
       "id": 143,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/a/8af27c48904052449195_1.png",
       "img557": "https://images-static.nykaa.com/media/catalog/product/8/a/8af27c48904052449195_2.png",
       "img558": "https://images-static.nykaa.com/media/catalog/product/8/a/8af27c48904052449195_1.png",
@@ -4080,7 +4080,7 @@
     },
     {
       "id": 144,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/a/1a317c48904052448457_1.png",
       "img561": "https://images-static.nykaa.com/media/catalog/product/1/a/1a317c48904052448457_2.png",
       "img562": "https://images-static.nykaa.com/media/catalog/product/1/a/1a317c48904052448457_1.png",
@@ -4109,7 +4109,7 @@
     },
     {
       "id": 145,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/2/22aa16cCOLOR00000649.jpg",
       "img565": "https://images-static.nykaa.com/media/catalog/product/2/2/22aa16cCOLOR00000649_2.jpg",
       "img566": "https://images-static.nykaa.com/media/catalog/product/2/2/22aa16cCOLOR00000649_1.jpg",
@@ -4138,7 +4138,7 @@
     },
     {
       "id": 146,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/3/b3087c48904052448440_1.png",
       "img569": "https://images-static.nykaa.com/media/catalog/product/b/3/b3087c48904052448440_2.png",
       "img570": "https://images-static.nykaa.com/media/catalog/product/b/3/b3087c48904052448440_1.png",
@@ -4167,7 +4167,7 @@
     },
     {
       "id": 147,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/d/0decac58904052449447_1.jpg",
       "img573": "https://images-static.nykaa.com/media/catalog/product/0/d/0decac58904052449447_1.jpg",
       "img574": "https://images-static.nykaa.com/media/catalog/product/0/d/0decac58904052449447_2.jpg",
@@ -4196,7 +4196,7 @@
     },
     {
       "id": 148,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/0/40a87c48904052449454_1.png",
       "img577": "https://images-static.nykaa.com/media/catalog/product/4/0/40a87c48904052449454_2.png",
       "img578": "https://images-static.nykaa.com/media/catalog/product/4/0/40a87c48904052449454_1.png",
@@ -4225,7 +4225,7 @@
     },
     {
       "id": 149,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/7/97c27c48904052448662_1.png",
       "img581": "https://images-static.nykaa.com/media/catalog/product/9/7/97c27c48904052448662_2.png",
       "img582": "https://images-static.nykaa.com/media/catalog/product/9/7/97c27c48904052448662_1.png",
@@ -4254,7 +4254,7 @@
     },
     {
       "id": 150,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/d/0decac58904052449300_1.jpg",
       "img585": "https://images-static.nykaa.com/media/catalog/product/0/d/0decac58904052449300_1.jpg",
       "img586": "https://images-static.nykaa.com/media/catalog/product/0/d/0decac58904052449300_2.jpg",
@@ -4283,7 +4283,7 @@
     },
     {
       "id": 151,
-      "category": "brand",
+      "category": "Brand",
       "imgSrc": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/5/55577c48904052448716(1).png",
       "img589": "https://images-static.nykaa.com/media/catalog/product/5/5/55577c48904052448716(2).png",
       "img590": "https://images-static.nykaa.com/media/catalog/product/5/5/55577c48904052448716(1).png",
